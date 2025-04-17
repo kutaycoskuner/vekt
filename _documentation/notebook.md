@@ -14,3 +14,4 @@
     - cd vekt
     - git init && git add -A && git commit -m "Initial commit" (optional)
     - pnpm run dev --open
+    - pnpm dev
